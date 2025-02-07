@@ -1,0 +1,14 @@
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\ola-mundo\bin\Debug\net8.0\ola-mundo.exe
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\ola-mundo\bin\Debug\net8.0\ola-mundo.deps.json
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\ola-mundo\bin\Debug\net8.0\ola-mundo.runtimeconfig.json
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\ola-mundo\bin\Debug\net8.0\ola-mundo.dll
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\ola-mundo\bin\Debug\net8.0\ola-mundo.pdb
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\ola-mundo\obj\Debug\net8.0\ola-mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\ola-mundo\obj\Debug\net8.0\ola-mundo.AssemblyInfoInputs.cache
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\ola-mundo\obj\Debug\net8.0\ola-mundo.AssemblyInfo.cs
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\ola-mundo\obj\Debug\net8.0\ola-mundo.csproj.CoreCompileInputs.cache
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\ola-mundo\obj\Debug\net8.0\ola-mundo.dll
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\ola-mundo\obj\Debug\net8.0\refint\ola-mundo.dll
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\ola-mundo\obj\Debug\net8.0\ola-mundo.pdb
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\ola-mundo\obj\Debug\net8.0\ola-mundo.genruntimeconfig.cache
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\ola-mundo\obj\Debug\net8.0\ref\ola-mundo.dll
