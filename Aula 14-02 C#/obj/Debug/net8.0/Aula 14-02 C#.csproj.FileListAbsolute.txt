@@ -1,0 +1,14 @@
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\Aula 14-02 C#\bin\Debug\net8.0\Aula 14-02 C#.exe
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\Aula 14-02 C#\bin\Debug\net8.0\Aula 14-02 C#.deps.json
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\Aula 14-02 C#\bin\Debug\net8.0\Aula 14-02 C#.runtimeconfig.json
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\Aula 14-02 C#\bin\Debug\net8.0\Aula 14-02 C#.dll
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\Aula 14-02 C#\bin\Debug\net8.0\Aula 14-02 C#.pdb
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\Aula 14-02 C#\obj\Debug\net8.0\Aula 14-02 C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\Aula 14-02 C#\obj\Debug\net8.0\Aula 14-02 C#.AssemblyInfoInputs.cache
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\Aula 14-02 C#\obj\Debug\net8.0\Aula 14-02 C#.AssemblyInfo.cs
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\Aula 14-02 C#\obj\Debug\net8.0\Aula 14-02 C#.csproj.CoreCompileInputs.cache
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\Aula 14-02 C#\obj\Debug\net8.0\Aula 14-02 C#.dll
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\Aula 14-02 C#\obj\Debug\net8.0\refint\Aula 14-02 C#.dll
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\Aula 14-02 C#\obj\Debug\net8.0\Aula 14-02 C#.pdb
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\Aula 14-02 C#\obj\Debug\net8.0\Aula 14-02 C#.genruntimeconfig.cache
+C:\Users\otavio.lvasconcelos\Documents\Projetos C#\Aula 14-02 C#\obj\Debug\net8.0\ref\Aula 14-02 C#.dll
