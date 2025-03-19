@@ -1,0 +1,66 @@
+
+using System.Collections;
+using Etapa8_aula1;
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        Retangulo retangulo = new Retangulo();
+        retangulo.Altura = 5;
+        retangulo.Largura = 10;
+
+        Circulo circulo = new Circulo();
+        circulo.Raio = 5;
+
+        //IForma iForma = new IForma(); //vai dar erro
+
+        IForma iForma = retangulo;
+
+        iForma.CalcularArea();
+
+        iForma = circulo;
+
+        iForma.CalcularArea();
+
+        Console.ReadKey();
+
+        ArrayList ArrayList = new ArrayList();
+
+        IEnumerable arrayListIEnumerable = new ArrayList();
+    }
+}
+
+
+//////////////////////////////
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Etapa8_aula1
+{
+    public interface IForma
+    {
+       public string CalcularArea();
+    }
+}
+
+
+namespace Etapa8_aula1
+{
+    internal class Circulo:IForma
+    {
+        public double Raio;
+
+        public string CalcularArea()
+        {
+            double valorArea = Math.PI * (Raio * Raio);
+
+            return $"O valor da area do circulo é {valorArea}";
+        }
+    }
+}
