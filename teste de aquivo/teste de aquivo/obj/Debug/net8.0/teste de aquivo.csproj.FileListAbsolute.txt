@@ -1,0 +1,14 @@
+C:\Users\otavio.lvasconcelos\source\repos\teste de aquivo\teste de aquivo\bin\Debug\net8.0\teste de aquivo.exe
+C:\Users\otavio.lvasconcelos\source\repos\teste de aquivo\teste de aquivo\bin\Debug\net8.0\teste de aquivo.deps.json
+C:\Users\otavio.lvasconcelos\source\repos\teste de aquivo\teste de aquivo\bin\Debug\net8.0\teste de aquivo.runtimeconfig.json
+C:\Users\otavio.lvasconcelos\source\repos\teste de aquivo\teste de aquivo\bin\Debug\net8.0\teste de aquivo.dll
+C:\Users\otavio.lvasconcelos\source\repos\teste de aquivo\teste de aquivo\bin\Debug\net8.0\teste de aquivo.pdb
+C:\Users\otavio.lvasconcelos\source\repos\teste de aquivo\teste de aquivo\obj\Debug\net8.0\teste de aquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otavio.lvasconcelos\source\repos\teste de aquivo\teste de aquivo\obj\Debug\net8.0\teste de aquivo.AssemblyInfoInputs.cache
+C:\Users\otavio.lvasconcelos\source\repos\teste de aquivo\teste de aquivo\obj\Debug\net8.0\teste de aquivo.AssemblyInfo.cs
+C:\Users\otavio.lvasconcelos\source\repos\teste de aquivo\teste de aquivo\obj\Debug\net8.0\teste de aquivo.csproj.CoreCompileInputs.cache
+C:\Users\otavio.lvasconcelos\source\repos\teste de aquivo\teste de aquivo\obj\Debug\net8.0\teste de aquivo.dll
+C:\Users\otavio.lvasconcelos\source\repos\teste de aquivo\teste de aquivo\obj\Debug\net8.0\refint\teste de aquivo.dll
+C:\Users\otavio.lvasconcelos\source\repos\teste de aquivo\teste de aquivo\obj\Debug\net8.0\teste de aquivo.pdb
+C:\Users\otavio.lvasconcelos\source\repos\teste de aquivo\teste de aquivo\obj\Debug\net8.0\teste de aquivo.genruntimeconfig.cache
+C:\Users\otavio.lvasconcelos\source\repos\teste de aquivo\teste de aquivo\obj\Debug\net8.0\ref\teste de aquivo.dll
