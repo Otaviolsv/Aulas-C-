@@ -1,0 +1,5 @@
+Nome: Bruno, Idade: 18
+Nome: João, Idade: 20
+Nome: Pernas, Idade: 19
+Nome: Lucas, Idade: 21
+Nome: Otavio, Idade: 23
