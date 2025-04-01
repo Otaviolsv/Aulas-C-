@@ -716,6 +716,7 @@ class Ex12
         public String[] email = new String[30];
         private int contador = 0;
 
+        //Subclasse para alterar o metodo FormatoContatos()
         class Markdown : Contatos {
             public override void FormatoContatos()
             {
@@ -748,6 +749,7 @@ class Ex12
                 }
             }
         }
+        //Metodo para listar os contatos
         public virtual void FormatoContatos()
         {
             //Laço de repetição while para permanecer na lista de contatos no console até o break
@@ -765,7 +767,6 @@ class Ex12
 
                 Console.WriteLine("Digite 4 se deseja voltar para o menu");
                 int opcao2 = int.Parse(Console.ReadLine());
-
                 //Condicional se o usuário não escolher a opção 4 continua na tela de lista
                 if (opcao2 != 4)
                 {
@@ -834,9 +835,7 @@ class Ex12
                 //Condicional se o usuário escolher a opção 1
                 if (opcao == 1)
                 {
-
                     Console.WriteLine("\nInserindo produto");
-
                     Console.WriteLine("\nDigite o nome do contato:");
                     nome[contador] = Console.ReadLine();
                     Console.WriteLine("\nDigite a telefone do contato:");
@@ -845,20 +844,18 @@ class Ex12
                     email[contador] = Console.ReadLine();
                     Console.WriteLine("");
 
-
                     using (StreamWriter writer = File.AppendText(arquivo))
                     {
 
                         writer.WriteLine($"{nome[contador]},{telefone[contador]},{email[contador]}");
                     }
 
-
                     //Adiciona +1 ao contador e continua para a repetição do while no Menu
                     contador++;
                     continue;
 
-
                 }
+                
                 //Condicional se o usuário escolher a opção 2
                 if (opcao == 2)
                 {
