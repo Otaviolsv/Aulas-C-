@@ -1,4 +1,0 @@
-otavio,21 995119232,otavio@gmail.com
-teste1,888989898,teste1@gmail.com
-teste,223232323,teste23@gmail.com
-dsadad,323232323,sa@gmail.com
